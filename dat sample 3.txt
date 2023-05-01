@@ -37,14 +37,14 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"advice mod 1","desc":"Standoff 2 is a popular mobile first-person shooter game that has attracted a large following of gamers worldwide. ","photo":"https://iili.io/HSnz5PV.jpg"},
+  {"title":"how to use this app 2","desc":"The game has been well received by both casual and competitive players and has consistently received updates to keep the gameplay fresh. However,","photo":"https://iili.io/HSnCGEP.jpg"},
+  {"title":"tips pack 3","desc":", some players have found the game to be repetitive and have turned to mods to enhance their experience. One such mod is the Standoff 2 mod.","photo":"https://iili.io/HSnzacP.jpg"},
+  {"title":"advance mod 4","desc":"A mod, short for modification, is a third-party alteration of a game. It can range from a small change, such as changing the color of a character's clothes, to a significant overhaul of the game's mechanics.","photo":"https://iili.io/HSnzRMQ.jpg"},
+  {"title":"helper pack 5","desc":"Mods are often created by the game's community and are shared for free. Mods are generally installed by replacing or adding files to the game's installation folder, which can be on a mobile device or a computer.","photo":"https://freeimage.host/i/HSnzYKB"},
+  {"title":"advice mod 6","desc":"The Standoff 2 mod is a modification of the original game that provides several features not found in the vanilla game. ","photo":"https://iili.io/HSnzcS1.jpg"},
+  {"title":"how to use this app 7","desc":"The mod has been created by an independent developer and is not endorsed by the game's developer, Axlebolt. It is available for download on various websites and forums. However, ","photo":"https://iili.io/HSnz0HF.jpg"},
+  {"title":"tips pack 8","desc":" it is important to note that mods can be risky and can potentially harm a user's device or account. It is recommended that users only download mods from reputable sources and only install them if they fully understand the risks involved.","photo":"https://iili.io/HSnzENa.jpg"}
    ]
  
 }
